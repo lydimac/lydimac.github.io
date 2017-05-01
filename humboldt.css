@@ -1,0 +1,32 @@
+.alpha.title {
+    color: #b65300;
+}
+.alpha {
+    font-size: 32px;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+a.button.brick {
+    background: #933621;
+}
+a.button {
+    background: #0c4301;
+    color: #fff;
+    padding: 8px;
+    padding: 0.5rem;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+}
+
+.icon-menu i {
+    position: relative;
+    background: #b65300;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
